@@ -11,4 +11,3 @@
 
 ![akaza GitHub stats](https://github-readme-stats.vercel.app/api?username=akaza028&show_icons=true&theme=radical)
 
-perfil profissional
